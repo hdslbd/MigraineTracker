@@ -42,6 +42,13 @@ The Migraine Tracker project acknowledges the contributions of various stakehold
 - **Neurology Clinics:** For sharing expertise in migraine management and insights into patient needs, ensuring the application meets clinical standards.
 - **Health Data Researchers:** For their guidance in data analysis methodologies and best practices in the handling of health-related datasets.
 
+## Team
+| Name                     | Role                                |
+|--------------------------|-------------------------------------|
+| Md. Jubayer Hossain      | Team Lead & Research                |
+| Md Kaif Ibn Zaman        | Android Developer                   |
+| Tasmim Rahman Adib       | Software Engineer & Data Scientist   |
+
 ## Public Health Relevance Statement
 Migraine is a prevalent neurological disorder that significantly impacts individuals' quality of life, leading to considerable disability and economic burden. According to the World Health Organization, migraines affect an estimated 1 in 7 people globally, emphasizing the need for effective management strategies. The Migraine Tracker application addresses this public health challenge by enabling individuals to take an active role in managing their condition through self-monitoring and education.
 
