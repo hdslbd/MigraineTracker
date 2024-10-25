@@ -3,6 +3,13 @@
 ## Project Overview
 The Migraine Tracker is a sophisticated mobile application designed to empower individuals experiencing migraines through effective tracking and management of their symptoms. By leveraging health data science methodologies, this application aims to provide users with valuable insights into their migraine patterns, potential triggers, and treatment efficacy, thereby enhancing overall quality of life.
 
+<div>
+    <img src="img/MT_01.jpg" alt="Migraine Tracker Image 1" width="200"/>
+    <img src="img/MT_02.jpg" alt="Migraine Tracker Image 2" width="200"/>
+    <img src="img/MT_03.jpg" alt="Migraine Tracker Image 3" width="200"/>
+    <img src="img/MT_04.jpg" alt="Migraine Tracker Image 4" width="200"/>
+</div>
+
 ## Key Features
 - **Symptom Tracking:** Users can log detailed information regarding the frequency, duration, and intensity of their migraines, as well as associated symptoms, facilitating comprehensive self-monitoring.
 - **Trigger Identification:** The application allows users to identify and categorize potential migraine triggers, including dietary factors, environmental conditions, and lifestyle choices, thereby promoting informed decision-making.
